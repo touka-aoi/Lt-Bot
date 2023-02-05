@@ -1,0 +1,22 @@
+{
+  "name": "lt-bot",
+  "version": "1.0.0",
+  "description": "Lt-system: いなづまのLt活動支援用ユニットです。discord-Botとして活動します。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touka-aoi/Lt-Bot.git"
+  },
+  "author": "touka-aoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touka-aoi/Lt-Bot/issues"
+  },
+  "homepage": "https://github.com/touka-aoi/Lt-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
